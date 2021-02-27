@@ -1,0 +1,4 @@
+ErrorDocument 400 http://www.gregorycasparian.com/errorDocs/404.html
+ErrorDocument 403 http://www.gregorycasparian.com/errorDocs/404.html
+ErrorDocument 404 http://www.gregorycasparian.com/errorDocs/404.html
+ErrorDocument 500 http://www.gregorycasparian.com/errorDocs/404.html
